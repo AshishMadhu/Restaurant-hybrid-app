@@ -3,14 +3,10 @@ import * as React from "react";
 import { Image, Platform } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
-import Ionicons from "react-native-vector-icons/Ionicons";
-import MaterialCommunityIcons from "react-native-vector-icons/MaterialCommunityIcons";
 
 import DecisionScreen from "./screens/DecisionScreen";
 import PeopleScreen from "./screens/PeopleScreen";
 import RestaurantsScreen from "./screens/RestaurantsScreen";
-
-const platformOS = Platform.OS.toLowerCase();
 
 const Tab = createBottomTabNavigator();
 
