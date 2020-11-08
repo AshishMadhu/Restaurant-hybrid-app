@@ -1,8 +1,7 @@
 # Restaurant-hybrid-app
-This is a pretty basic React-native project in TypeScript. Created by referring Practical <b> *React Native by Frank Zammetti* </b>.
-
+This is a pretty basic React-native project in TypeScript. Created by referring Practical <b>*React Native by Frank Zammetti*</b>.
 <p align="center">
-<img src="https://github.com/AshishMadhu/Restaurant-hybrid-app/blob/master/ro2832a9.png" alt="react-native />
+  <img src="https://github.com/AshishMadhu/Restaurant-hybrid-app/blob/master/ro2832a9.png" alt="django" height="190"/>
 </p>
 
 ## Overview
