@@ -1,4 +1,4 @@
-import "react-native-gesture-handler";
+import "react-native-gesture-handler"; // testing
 import * as React from "react";
 import { Image, Platform } from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
