@@ -7,7 +7,7 @@ This is a pretty basic React-native project in TypeScript. Created by referring 
 ## Overview
 
 I wrote this app fully in TypedScript, actually in the book it was given in JavaScript. Yeah I know it's not a brainstorming task.
-I think this is worth mentioning. For me, it was easy to understand & build the app. It took me 2 weeks to complete this tutorial. I mentioned it easy here just because basic things are used to build the project, as you know no backend is implemented, so there is no need for fetching data or using redux to save the user or anything like that. If you are a beginner in react-native then I'll recommend this book to you (a bit outdated) 🎁.
+I think this is worth mentioning. For me, it was easy to understand & build the app. It took me 2 weeks to complete this tutorial. I mentioned it easy here just because only basic things are used to build the project, as you know no backend is implemented, so there is no need for fetching data or using redux to save the user or anything like that. If you are a beginner in react-native then I'll recommend this book to you (a bit outdated) 🎁.
 
 # Documentation
 The basic use of this app is to choose a restaurant of your need. For those people who have confusion.
